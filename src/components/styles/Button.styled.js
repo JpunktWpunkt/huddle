@@ -12,7 +12,7 @@ border-radius: 50px;
   color: ${({color}) => color || '#333'};
   
   &:hover {
-    opacity: 0.9;
+    opacity: 0.5;
     transform: scale(0.98);
   }
 `

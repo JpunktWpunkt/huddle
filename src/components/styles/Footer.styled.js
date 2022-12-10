@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const StyledFooter = styled.footer`
   background-color: ${({ theme }) => theme.colors.footer};
-  color: #fff;
+  color: ${({ theme }) => theme.colors.body};
   padding: 100px 0 60px;
   ul {
     list-style-type: none;
