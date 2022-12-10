@@ -28,10 +28,16 @@ I learned to use the design and make ist responsive depending the device screen.
 Also I used hover and focus states for interactive elements
 
 ### Screenshot
+![img.png](img.png)
 ### Links
+https://huddle-puce.vercel.app/
 ### My process
+At first i built the different components at last i have to solve the css tricks 
 ### Built with
+i built this challenge with Next.js and plain css, i try to use reusable code structure
 ### What i learned
-### Continued Development
-### Useful recources
+i learned to use display:flex and order:1 or 2 in different divs to make another order.
+Also i learned the functionality of row-reverse and layout={id % 2 === 0 && 'row-reverse'}
+
 ### Author
+JpunktWpunkt
